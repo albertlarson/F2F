@@ -1,0 +1,5 @@
+/work/albertl_uri_edu/.conda/envs/sm/lib/python3.9/site-packages/xarray/backends/cfgrib_.py:27: UserWarning: Failed to load cfgrib - most likely there is a problem accessing the ecCodes library. Try `import cfgrib` to get the full error message
+  warnings.warn(
+/work/albertl_uri_edu/.conda/envs/sm/lib/python3.9/site-packages/xarray/backends/plugins.py:61: RuntimeWarning: Engine 'cfgrib' loading failed:
+Cannot find the ecCodes library
+  warnings.warn(f"Engine {name!r} loading failed:\n{ex}", RuntimeWarning)

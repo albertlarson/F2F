@@ -1,0 +1,6 @@
+# conda environments:
+#
+base                  *  /modules/apps/miniconda/4.8.3/envs/jupyterhub-stable
+                         /work/albertl_uri_edu/.conda/envs/f2f
+                         /work/albertl_uri_edu/.conda/envs/sm
+

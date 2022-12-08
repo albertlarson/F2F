@@ -1,0 +1,15 @@
+# conda environments:
+#
+base                  *  /modules/apps/miniconda/4.8.3/envs/jupyterhub-stable
+                         /work/albertl_uri_edu/.conda/envs/f2f
+                         /work/albertl_uri_edu/.conda/envs/sm
+
+/work/albertl_uri_edu/fluxtoflow/files_for_paper/9999_f2f.py:455: RankWarning: Polyfit may be poorly conditioned
+  rsq,kge,nse = f2f(x[0],x[1],x[2],x[3])
+Traceback (most recent call last):
+  File "/work/albertl_uri_edu/fluxtoflow/files_for_paper/9999_f2f.py", line 460, in <module>
+    np.save('/work/albertl_uri_edu/fluxtoflow/files_for_paper/configured/macroscale_results.npy',macroscale_results,allow_pickle=False)
+  File "<__array_function__ internals>", line 180, in save
+  File "/work/albertl_uri_edu/.conda/envs/sm/lib/python3.9/site-packages/numpy/lib/npyio.py", line 515, in save
+    file_ctx = open(file, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: '/work/albertl_uri_edu/fluxtoflow/files_for_paper/configured/macroscale_results.npy'

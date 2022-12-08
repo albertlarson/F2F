@@ -1,0 +1,7 @@
+# conda environments:
+#
+base                  *  /modules/apps/miniconda/4.8.3/envs/jupyterhub-stable
+                         /work/albertl_uri_edu/.conda/envs/f2f
+                         /work/albertl_uri_edu/.conda/envs/sm
+
+slurmstepd-ials-gpu005: error: *** JOB 3154386 ON ials-gpu005 CANCELLED AT 2022-07-14T23:59:39 ***
