@@ -1,4 +1,3 @@
 # f2f
 
-here's my interesting readme.
-where did i put that paper?
+here's the scripts for f2f as it was submitted to iclr. 
