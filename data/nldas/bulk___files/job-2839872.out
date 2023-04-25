@@ -1,7 +1,0 @@
-Could not find conda environment: sm
-You can list all discoverable environments with `conda info --envs`.
-
-Traceback (most recent call last):
-  File "/work/albertl_uri_edu/fluxtoflow/nldas/nldas_summing.py", line 1, in <module>
-    import xarray as xr
-ModuleNotFoundError: No module named 'xarray'

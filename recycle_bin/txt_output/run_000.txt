@@ -1,0 +1,26 @@
+
+
+
+Basin Selected: Bear River
+NVIDIA GeForce GTX 1080 Ti
+
+Lag: 0
+Stop at: 0.95
+Train / test split %: 0.65
+Will run for (epochs): 100
+
+Training started at 2022-07-15 09:56:31
+epoch 0 train:	 [0.28]
+epoch 1 train:	 [0.67]
+epoch 2 train:	 [0.87]
+epoch 3 train:	 [0.92]
+epoch 4 train:	 [0.95]
+epoch 5 train:	 [0.96]
+Training time 0.30726 (minutes)
+
+R²	[0.952]
+KGE	[0.97]
+r	[0.976]
+α	[1.01]
+β	[1.016]
+NSE	[95.1]
