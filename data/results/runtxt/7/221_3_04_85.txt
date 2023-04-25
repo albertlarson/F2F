@@ -1,0 +1,19 @@
+Basin Selected: Mississippi
+NVIDIA GeForce RTX 2080 Ti
+
+Lag: 4
+Stop at: 0.95
+Train / test split %: 0.85
+Will run for (epochs): 100
+
+Training started at 2022-07-19 08:41:30
+epoch 0 train:	 [0.78]
+epoch 1 train:	 [0.95]
+Training time 0.79001 (minutes)
+
+R²	[0.968]
+KGE	[0.929]
+r	[0.989]
+α	[1.052]
+β	[1.047]
+NSE	[96.5]

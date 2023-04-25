@@ -1,0 +1,47 @@
+Basin Selected: Colorado
+NVIDIA GeForce RTX 2080 Ti
+
+Lag: 1
+Stop at: 0.95
+Train / test split %: 0.85
+Will run for (epochs): 100
+
+Training started at 2022-07-19 10:22:48
+epoch 0 train:	 [-0.01]
+epoch 1 train:	 [0.22]
+epoch 2 train:	 [0.4]
+epoch 3 train:	 [0.48]
+epoch 4 train:	 [0.52]
+epoch 5 train:	 [0.56]
+epoch 6 train:	 [0.6]
+epoch 7 train:	 [0.62]
+epoch 8 train:	 [0.66]
+epoch 9 train:	 [0.68]
+epoch 10 train:	 [0.71]
+epoch 11 train:	 [0.73]
+epoch 12 train:	 [0.75]
+epoch 13 train:	 [0.77]
+epoch 14 train:	 [0.79]
+epoch 15 train:	 [0.8]
+epoch 16 train:	 [0.83]
+epoch 17 train:	 [0.83]
+epoch 18 train:	 [0.84]
+epoch 19 train:	 [0.85]
+epoch 20 train:	 [0.87]
+epoch 21 train:	 [0.89]
+epoch 22 train:	 [0.89]
+epoch 23 train:	 [0.9]
+epoch 24 train:	 [0.92]
+epoch 25 train:	 [0.93]
+epoch 26 train:	 [0.94]
+epoch 27 train:	 [0.94]
+epoch 28 train:	 [0.94]
+epoch 29 train:	 [0.95]
+Training time 2.04814 (minutes)
+
+R²	[0.91]
+KGE	[0.935]
+r	[0.954]
+α	[1.046]
+β	[1.001]
+NSE	[90.2]

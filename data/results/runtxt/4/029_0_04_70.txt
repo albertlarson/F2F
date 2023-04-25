@@ -1,0 +1,24 @@
+Basin Selected: Bear River
+NVIDIA GeForce RTX 2080 Ti
+
+Lag: 4
+Stop at: 0.95
+Train / test split %: 0.7
+Will run for (epochs): 100
+
+Training started at 2022-07-17 21:25:11
+epoch 0 train:	 [0.39]
+epoch 1 train:	 [0.76]
+epoch 2 train:	 [0.87]
+epoch 3 train:	 [0.91]
+epoch 4 train:	 [0.93]
+epoch 5 train:	 [0.94]
+epoch 6 train:	 [0.95]
+Training time 0.39178 (minutes)
+
+R²	[0.916]
+KGE	[0.853]
+r	[0.975]
+α	[0.871]
+β	[0.934]
+NSE	[93.7]

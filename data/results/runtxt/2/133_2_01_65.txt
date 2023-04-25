@@ -1,0 +1,35 @@
+Basin Selected: Connecticut
+NVIDIA GeForce RTX 2080 Ti
+
+Lag: 1
+Stop at: 0.95
+Train / test split %: 0.65
+Will run for (epochs): 100
+
+Training started at 2022-07-17 06:25:23
+epoch 0 train:	 [0.14]
+epoch 1 train:	 [0.56]
+epoch 2 train:	 [0.7]
+epoch 3 train:	 [0.77]
+epoch 4 train:	 [0.81]
+epoch 5 train:	 [0.84]
+epoch 6 train:	 [0.86]
+epoch 7 train:	 [0.88]
+epoch 8 train:	 [0.89]
+epoch 9 train:	 [0.91]
+epoch 10 train:	 [0.91]
+epoch 11 train:	 [0.92]
+epoch 12 train:	 [0.93]
+epoch 13 train:	 [0.93]
+epoch 14 train:	 [0.94]
+epoch 15 train:	 [0.95]
+epoch 16 train:	 [0.95]
+epoch 17 train:	 [0.95]
+Training time 1.06363 (minutes)
+
+R²	[0.881]
+KGE	[0.867]
+r	[0.958]
+α	[0.904]
+β	[0.918]
+NSE	[90.3]

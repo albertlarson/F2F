@@ -6,5 +6,3 @@ __pycache__/
 *.pt
 .ipynb_checkpoints
 *.nc
-*.png
-*.txt
