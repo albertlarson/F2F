@@ -1,3 +1,4 @@
 # f2f
 
-uses a deep convolutional residual regressive neural network, nldas surface and subsurface flow based on noah algorithm, and usgs streamflow. 
+/data has some inputs and most results. pngs and txts for 2,268 experiments in /data/results/run*/
+/scripts is numbered except for the trapdoor, _.sh, and run.py which runs the bulk experiments, connected to runpng and runtxt
